@@ -4,7 +4,7 @@
 
 # 📍 Bibliotecas utilizadas
 - [Google fonts](https://fonts.google.com/)
-- [API OpenWeather](https://openweathermap.org/api]
+- [API OpenWeather](https://openweathermap.org/api)
 - [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css)
  
 # 📍 Tecnologias 
